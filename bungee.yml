@@ -1,0 +1,4 @@
+name: BungeeSudo
+main: speedcubing.bungeesudo.BungeeMain
+version: 1.0
+author: speedcubing
